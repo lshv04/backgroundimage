@@ -1,0 +1,64 @@
+.Container{
+
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: auto;
+}
+
+
+
+.Container1{
+
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: cover;
+}
+.Container2{
+
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: contain;
+}
+.Container3{
+
+    width: 350px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: contain;
+    
+}
+
+.Container4{
+
+    width: 250px;
+    height: 350px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: 100% 100%;
+    
+}
+
+
+.Container5{
+
+    width: 350px;
+    height: 250px;
+    border: 2px solid black;
+    margin: 30px;
+    background-image: url(./incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.webp);
+    background-size: 100% 100%;
+    
+}
+
