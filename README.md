@@ -1,7 +1,7 @@
 
 
 
-![Blue Futuristic Technology Presentation (1)](https://github.com/lshv04/backgroundimage/assets/169161949/8dd4ea41-1c1d-4adc-acd5-2043d951fde7)
+![Blue Futuristic Technology Presentation (2)](https://github.com/lshv04/backgroundimage/assets/169161949/772bd9d9-2973-41fd-9669-08e4225302e8)
 
 
 # Revisão Background-Image
